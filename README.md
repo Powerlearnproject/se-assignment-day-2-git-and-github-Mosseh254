@@ -22,7 +22,7 @@
     -Log in with your credentials.
   2.Create a New Repository
     -Navigate to Repositories
-    -Repository Name: Choose a meaningful and unique name for your repository (e.g., my-portfolio-website).
+    -Repository Name: Choose a meaningful and unique name for your repository.
   3.Choose Repository Visibility
     -Public: Anyone can view the repository. Best for open-source projects.
     -Private: Only you and collaborators you invite can view the repository.
@@ -90,7 +90,7 @@ Disadvantages
      4.Branching & Merging: Different features can be developed separately and merged later without affecting the main code.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
-Branching in Git allows developers to create separate versions (branches) of a project to work on different features, bug fixes, or experiments without affecting the main codebase.
+Branching in Git allows developers to create separate versions of a project to work on different features, bug fixes, or experiments without affecting the main codebase.
   Importance:
  1.Isolates Changes: Developers can work on features independently without disrupting the main project.
  2.Supports Collaboration: Multiple developers can work on different branches and merge their changes when ready.
@@ -129,7 +129,7 @@ Process;
   3. Forking is best for Contributing to open-source projects, experimenting with a repository while clonning is best for Personal development, team collaboration on private projects.
  Scenarios where forking is useful:-
   -Contributing to Open-Source Projects
-  - Experimenting Without Affecting the Original Repo
+  - Experimenting Without Affecting the Original Repository
   - Using a Public Repository for Personal Development
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
   Importance;
