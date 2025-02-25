@@ -171,5 +171,5 @@ Process;
  Best practices:-
     1. Use a Clear Branching Strategy.
     2.  Follow a Consistent Commit Message Format
-    3.  Regularly Sync with the Remote Repository
-    4.  Use Pull Requests (PRs) for Code Review.
+    3.  Regularly Sync with the remote repository
+    4.  Use Pull Requests for Code review.
